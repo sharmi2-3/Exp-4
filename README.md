@@ -1,4 +1,4 @@
-![UseCaseDiagram1](https://github.com/user-attachments/assets/bc4ee804-b01b-4de0-9749-646773b97bcd)# Exp - 4 HOSPITAL MANAGEMENT SYSTEM
+ Exp - 4 HOSPITAL MANAGEMENT SYSTEM
 
 # AIM:
 To draw the UML diagram for Hospital Management System
